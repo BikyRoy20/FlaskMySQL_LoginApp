@@ -1,0 +1,4 @@
+mysql_host:'localhost'
+mysql_user:'root'
+mysql_password:'Biky@!20'
+mysql_db:'FlaskBase'
